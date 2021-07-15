@@ -24,25 +24,26 @@ Answer - Yes
 6. Give the value of a after the execution of each of the following sequences:​
 
 a = 1 ​
-a
+1
 a = a + a​
-
+2
 a = a + a​
-
+4
 a = a + a​
-
+6
 a = True​
-
+True
 a = not a​
-
+False
 a = not a​
-
+True
 a = not a​
-
+False
 a = 2​
-
+2
 a = a * a​
-
+4
 a = a * a​
-
+16
 a = a * a​
+256
